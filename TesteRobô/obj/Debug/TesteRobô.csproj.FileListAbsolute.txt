@@ -1,0 +1,9 @@
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\bin\Debug\TesteRobô.exe.config
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\bin\Debug\TesteRobô.exe
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\bin\Debug\TesteRobô.pdb
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.csprojResolveAssemblyReference.cache
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.TestForm.resources
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.Properties.Resources.resources
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.csproj.GenerateResource.Cache
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.exe
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.pdb

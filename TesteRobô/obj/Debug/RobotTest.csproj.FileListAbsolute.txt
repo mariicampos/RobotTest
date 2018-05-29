@@ -1,0 +1,17 @@
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\bin\Debug\TesteRobô.exe.config
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\bin\Debug\TesteRobô.exe
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\bin\Debug\TesteRobô.pdb
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\RobotTest.TestForm.resources
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.Properties.Resources.resources
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\RobotTest.csproj.GenerateResource.Cache
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.exe
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\TesteRobô\TesteRobô\obj\Debug\TesteRobô.pdb
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\bin\Debug\TesteRobô.exe.config
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\obj\Debug\TesteRobô.exe
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\obj\Debug\TesteRobô.pdb
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\bin\Debug\TesteRobô.exe
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\bin\Debug\TesteRobô.pdb
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\obj\Debug\RobotTest.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\obj\Debug\RobotTest.TestForm.resources
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\obj\Debug\TesteRobô.Properties.Resources.resources
+C:\Users\Dell\Desktop\TesteRobô\TesteRobô\obj\Debug\RobotTest.csproj.GenerateResource.Cache
